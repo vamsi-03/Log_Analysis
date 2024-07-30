@@ -1,0 +1,727 @@
+[RemoteTestNG] detected TestNG version 7.8.0 
+
+SLF4J: Class path contains multiple SLF4J bindings. 
+
+SLF4J: Found binding in [jar:file:/C:/Users/I7016/.m2/repository/org/apache/logging/log4j/log4j-slf4j-impl/2.17.0/log4j-slf4j-impl-2.17.0.jar!/org/slf4j/impl/StaticLoggerBinder.class] 
+
+SLF4J: Found binding in [jar:file:/C:/Users/I7016/.m2/repository/org/slf4j/slf4j-log4j12/1.7.30/slf4j-log4j12-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class] 
+
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation. 
+
+SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory] 
+
+[DEBUG] 2024-07-17 15:58:04.857 [main] TestNG - suiteXmlPath: "C:\Users\I7016\AppData\Local\Temp\testng-eclipse-479451914\testng-customsuite.xml" 
+
+[INFO ] 2024-07-17 15:58:05.601 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms. 
+
+[INFO ] 2024-07-17 15:58:05.609 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms. 
+
+[INFO ] 2024-07-17 15:58:05.613 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+
+[INFO ] 2024-07-17 15:58:05.614 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+
+[INFO ] 2024-07-17 15:58:05.624 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms. 
+
+[INFO ] 2024-07-17 15:58:05.652 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 26 ms. 
+
+[INFO ] 2024-07-17 15:58:05.656 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+
+[INFO ] 2024-07-17 15:58:05.657 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+
+[INFO ] 2024-07-17 15:58:05.660 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+
+[INFO ] 2024-07-17 15:58:05.660 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+
+[INFO ] 2024-07-17 15:58:05.662 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+
+[INFO ] 2024-07-17 15:58:05.663 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+
+[INFO ] 2024-07-17 15:58:05.665 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+
+[INFO ] 2024-07-17 15:58:05.665 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+
+[INFO ] 2024-07-17 15:58:05.667 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+
+[INFO ] 2024-07-17 15:58:05.667 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+
+[INFO ] 2024-07-17 15:58:05.674 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+
+[INFO ] 2024-07-17 15:58:05.675 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+
+[INFO ] 2024-07-17 15:58:05.677 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+
+[INFO ] 2024-07-17 15:58:05.677 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+
+[INFO ] 2024-07-17 15:58:05.680 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+
+[INFO ] 2024-07-17 15:58:05.681 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+
+[INFO ] 2024-07-17 15:58:05.689 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms. 
+
+[INFO ] 2024-07-17 15:58:05.690 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+
+[INFO ] 2024-07-17 15:58:05.693 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+
+[INFO ] 2024-07-17 15:58:05.709 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 14 ms. 
+
+[INFO ] 2024-07-17 15:58:05.714 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+
+[INFO ] 2024-07-17 15:58:05.714 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+
+[INFO ] 2024-07-17 15:58:05.715 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+
+[INFO ] 2024-07-17 15:58:05.716 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+
+[INFO ] 2024-07-17 15:58:05.739 [main] Utils - [TestNG] Running: 
+
+C:\Users\I7016\AppData\Local\Temp\testng-eclipse-479451914\testng-customsuite.xml 
+
+ 
+
+[INFO ] 2024-07-17 15:58:05.801 [main] InputForm - Setting up the test... 
+
+[DEBUG] 2024-07-17 15:58:05.847 [main] WebDriverManager - Using WebDriverManager 5.6.3 
+
+[DEBUG] 2024-07-17 15:58:07.182 [main] ResolutionCache - Resolution chrome=126 in cache (valid until 16:45:51 17/07/2024 IST) 
+
+[DEBUG] 2024-07-17 15:58:07.187 [main] ResolutionCache - Resolution chrome126=126.0.6478.182 in cache (valid until 12:28:40 18/07/2024 IST) 
+
+[INFO ] 2024-07-17 15:58:07.189 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126) 
+
+[DEBUG] 2024-07-17 15:58:07.297 [main] WebDriverManager - Driver chromedriver 126.0.6478.182 found in cache 
+
+[INFO ] 2024-07-17 15:58:07.307 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\I7016\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe 
+
+Starting ChromeDriver 126.0.6478.182 (5b5d8292ddf182f8b2096fa665b473b6317906d5-refs/branch-heads/6478@{#1776}) on port 13918 
+
+Only local connections are allowed. 
+
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe. 
+
+ChromeDriver was started successfully. 
+
+Jul 17, 2024 3:58:11 PM org.openqa.selenium.remote.ProtocolHandshake createSession 
+
+INFO: Detected dialect: W3C 
+
+[INFO ] 2024-07-17 15:58:13.175 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 13 ms. 
+
+[INFO ] 2024-07-17 15:58:13.253 [main] InputForm - Starting TestInputForm... 
+
+[INFO ] 2024-07-17 15:58:13.365 [main] InputForm - Starting TestCheckBox... 
+
+[INFO ] 2024-07-17 15:58:13.424 [main] InputForm - Starting TestRadioButton... 
+
+[INFO ] 2024-07-17 15:58:13.494 [main] InputForm - Starting dropdown test... 
+
+[INFO ] 2024-07-17 15:58:13.614 [main] InputForm - Tearing down the test... 
+
+FAILED: test.InputForm.fillTheForm 
+
+org.openqa.selenium.InvalidSelectorException: invalid selector 
+
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression [@id='treemenu']/li/ul/li[1]/a[@href='#'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '[@id='treemenu']/li/ul/li[1]/a[@href='#']' is not a valid XPath expression."} 
+
+(Session info: chrome=126.0.6478.127) 
+
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html 
+
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z' 
+
+System info: host: 'IND-CHN-LT12156', ip: '10.10.148.79', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9' 
+
+Driver info: org.openqa.selenium.chrome.ChromeDriver 
+
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\I7016\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60318}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+
+Session ID: 968f1f5ae4a347743fa8fda8665afc2b 
+
+*** Element info: {Using=xpath, value=[@id='treemenu']/li/ul/li[1]/a[@href='#']} 
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) 
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) 
+
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) 
+
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) 
+
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) 
+
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187) 
+
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122) 
+
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49) 
+
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158) 
+
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83) 
+
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548) 
+
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322) 
+
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:424) 
+
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353) 
+
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314) 
+
+	at pageObject.Homepage.getInputform(Homepage.java:42) 
+
+	at test.InputForm.fillTheForm(InputForm.java:185) 
+
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) 
+
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) 
+
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) 
+
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) 
+
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) 
+
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) 
+
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) 
+
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) 
+
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) 
+
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) 
+
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) 
+
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) 
+
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) 
+
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) 
+
+	at org.testng.TestRunner.run(TestRunner.java:621) 
+
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) 
+
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) 
+
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) 
+
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) 
+
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) 
+
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) 
+
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) 
+
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) 
+
+	at org.testng.TestNG.runSuites(TestNG.java:1114) 
+
+	at org.testng.TestNG.run(TestNG.java:1082) 
+
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) 
+
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) 
+
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) 
+
+ 
+
+FAILED: test.InputForm.TestCheckBox 
+
+org.openqa.selenium.InvalidSelectorException: invalid selector 
+
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression [@id='treemenu']/li/ul/li[1]/a[@href='#'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '[@id='treemenu']/li/ul/li[1]/a[@href='#']' is not a valid XPath expression."} 
+
+(Session info: chrome=126.0.6478.127) 
+
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html 
+
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z' 
+
+System info: host: 'IND-CHN-LT12156', ip: '10.10.148.79', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9' 
+
+Driver info: org.openqa.selenium.chrome.ChromeDriver 
+
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\I7016\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60318}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+
+Session ID: 968f1f5ae4a347743fa8fda8665afc2b 
+
+*** Element info: {Using=xpath, value=[@id='treemenu']/li/ul/li[1]/a[@href='#']} 
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) 
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) 
+
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) 
+
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) 
+
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) 
+
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187) 
+
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122) 
+
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49) 
+
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158) 
+
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83) 
+
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548) 
+
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322) 
+
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:424) 
+
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353) 
+
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314) 
+
+	at pageObject.Homepage.getInputform(Homepage.java:42) 
+
+	at test.InputForm.TestCheckBox(InputForm.java:87) 
+
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) 
+
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) 
+
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) 
+
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) 
+
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) 
+
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) 
+
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) 
+
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) 
+
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) 
+
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) 
+
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) 
+
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) 
+
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) 
+
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) 
+
+	at org.testng.TestRunner.run(TestRunner.java:621) 
+
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) 
+
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) 
+
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) 
+
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) 
+
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) 
+
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) 
+
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) 
+
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) 
+
+	at org.testng.TestNG.runSuites(TestNG.java:1114) 
+
+	at org.testng.TestNG.run(TestNG.java:1082) 
+
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) 
+
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) 
+
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) 
+
+ 
+
+FAILED: test.InputForm.dropdown 
+
+org.openqa.selenium.InvalidSelectorException: invalid selector 
+
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression [@id='treemenu']/li/ul/li[1]/a[@href='#'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '[@id='treemenu']/li/ul/li[1]/a[@href='#']' is not a valid XPath expression."} 
+
+(Session info: chrome=126.0.6478.127) 
+
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html 
+
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z' 
+
+System info: host: 'IND-CHN-LT12156', ip: '10.10.148.79', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9' 
+
+Driver info: org.openqa.selenium.chrome.ChromeDriver 
+
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\I7016\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60318}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+
+Session ID: 968f1f5ae4a347743fa8fda8665afc2b 
+
+*** Element info: {Using=xpath, value=[@id='treemenu']/li/ul/li[1]/a[@href='#']} 
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) 
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) 
+
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) 
+
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) 
+
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) 
+
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187) 
+
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122) 
+
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49) 
+
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158) 
+
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83) 
+
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548) 
+
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322) 
+
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:424) 
+
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353) 
+
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314) 
+
+	at pageObject.Homepage.getInputform(Homepage.java:42) 
+
+	at test.InputForm.dropdown(InputForm.java:146) 
+
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) 
+
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) 
+
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) 
+
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) 
+
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) 
+
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) 
+
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) 
+
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) 
+
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) 
+
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) 
+
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) 
+
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) 
+
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) 
+
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) 
+
+	at org.testng.TestRunner.run(TestRunner.java:621) 
+
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) 
+
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) 
+
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) 
+
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) 
+
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) 
+
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) 
+
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) 
+
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) 
+
+	at org.testng.TestNG.runSuites(TestNG.java:1114) 
+
+	at org.testng.TestNG.run(TestNG.java:1082) 
+
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) 
+
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) 
+
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) 
+
+ 
+
+FAILED: test.InputForm.TestInputForm 
+
+org.openqa.selenium.InvalidSelectorException: invalid selector 
+
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression [@id='treemenu']/li/ul/li[1]/a[@href='#'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '[@id='treemenu']/li/ul/li[1]/a[@href='#']' is not a valid XPath expression."} 
+
+(Session info: chrome=126.0.6478.127) 
+
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html 
+
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z' 
+
+System info: host: 'IND-CHN-LT12156', ip: '10.10.148.79', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9' 
+
+Driver info: org.openqa.selenium.chrome.ChromeDriver 
+
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\I7016\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60318}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+
+Session ID: 968f1f5ae4a347743fa8fda8665afc2b 
+
+*** Element info: {Using=xpath, value=[@id='treemenu']/li/ul/li[1]/a[@href='#']} 
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) 
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) 
+
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) 
+
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) 
+
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) 
+
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187) 
+
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122) 
+
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49) 
+
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158) 
+
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83) 
+
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548) 
+
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322) 
+
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:424) 
+
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353) 
+
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314) 
+
+	at pageObject.Homepage.getInputform(Homepage.java:42) 
+
+	at test.InputForm.TestInputForm(InputForm.java:63) 
+
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) 
+
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) 
+
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) 
+
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) 
+
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) 
+
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) 
+
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) 
+
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) 
+
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) 
+
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) 
+
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) 
+
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) 
+
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) 
+
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) 
+
+	at org.testng.TestRunner.run(TestRunner.java:621) 
+
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) 
+
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) 
+
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) 
+
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) 
+
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) 
+
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) 
+
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) 
+
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) 
+
+	at org.testng.TestNG.runSuites(TestNG.java:1114) 
+
+	at org.testng.TestNG.run(TestNG.java:1082) 
+
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) 
+
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) 
+
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) 
+
+ 
+
+FAILED: test.InputForm.TestRadioButton 
+
+org.openqa.selenium.InvalidSelectorException: invalid selector 
+
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression [@id='treemenu']/li/ul/li[1]/a[@href='#'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '[@id='treemenu']/li/ul/li[1]/a[@href='#']' is not a valid XPath expression."} 
+
+(Session info: chrome=126.0.6478.127) 
+
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html 
+
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z' 
+
+System info: host: 'IND-CHN-LT12156', ip: '10.10.148.79', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9' 
+
+Driver info: org.openqa.selenium.chrome.ChromeDriver 
+
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: C:\Users\I7016\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60318}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+
+Session ID: 968f1f5ae4a347743fa8fda8665afc2b 
+
+*** Element info: {Using=xpath, value=[@id='treemenu']/li/ul/li[1]/a[@href='#']} 
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) 
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) 
+
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) 
+
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) 
+
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) 
+
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187) 
+
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122) 
+
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49) 
+
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158) 
+
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83) 
+
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548) 
+
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322) 
+
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:424) 
+
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353) 
+
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314) 
+
+	at pageObject.Homepage.getInputform(Homepage.java:42) 
+
+	at test.InputForm.TestRadioButton(InputForm.java:119) 
+
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) 
+
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) 
+
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) 
+
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) 
+
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) 
+
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) 
+
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) 
+
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) 
+
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) 
+
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) 
+
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) 
+
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) 
+
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) 
+
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) 
+
+	at org.testng.TestRunner.run(TestRunner.java:621) 
+
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) 
+
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) 
+
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) 
+
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) 
+
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) 
+
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) 
+
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) 
+
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) 
+
+	at org.testng.TestNG.runSuites(TestNG.java:1114) 
+
+	at org.testng.TestNG.run(TestNG.java:1082) 
+
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) 
+
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) 
+
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) 
+
+ 
+
+ 
+
+=============================================== 
+
+Default test 
+
+Tests run: 5, Failures: 5, Skips: 0 
+
+=============================================== 
+
+ 
+
+ 
+
+=============================================== 
+
+Default suite 
+
+Total tests run: 5, Passes: 0, Failures: 5, Skips: 0 
+
+=============================================== 
+
+ 
+
+[INFO ] 2024-07-17 15:58:18.894 [main] Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@7fb66650: 189 ms 
+
+[INFO ] 2024-07-17 15:58:19.268 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@177515d1: 372 ms 
+
+[INFO ] 2024-07-17 15:58:19.303 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@797c3c3b: 35 ms 
+
+[INFO ] 2024-07-17 15:58:19.340 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@60b34931: 35 ms 
+
+[INFO ] 2024-07-17 15:58:19.363 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@178f268a: 21 ms 
+
+[INFO ] 2024-07-17 15:58:19.410 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@feb98ef: 47 ms 
+
+[INFO ] 2024-07-17 15:58:19.410 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7654f833: 0 ms 
+
+ 
